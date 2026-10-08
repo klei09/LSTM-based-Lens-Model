@@ -1,0 +1,12 @@
+{
+  "num_layers": 3,
+  "hidden_dim": 256,
+  "cond_dim": 64,
+  "dropout": 0.047101740741188725,
+  "lr": 0.003127808044202295,
+  "optimizer": "SGD",
+  "weight_decay": 7.483223618727563e-06,
+  "batch_size": 16,
+  "lambda_phys": 1.3369808202412057,
+  "t_min": 0.24983274799818483
+}
